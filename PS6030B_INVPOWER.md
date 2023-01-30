@@ -10,7 +10,7 @@ Board is stamped "PS6030B INVPOWER"
 
 The battery connector shows 50V. While the output of this board shows 0v.
 
-![PS6030B-INVPOWER-fail1.jpg](Inverter_failure/PS6030B-INVPOWER-fail1.jpg "PS6030B-INVPOWER-fail1")
-![PS6030B-INVPOWER-fail2.jpg](Inverter_failure/PS6030B-INVPOWER-fail2.jpg "PS6030B-INVPOWER-fail2")
+![PS6030B-INVPOWER-fail1.jpg](inverter_failure/PS6030B-INVPOWER-fail1.jpg "PS6030B-INVPOWER-fail1")
+![PS6030B-INVPOWER-fail2.jpg](inverter_failure/PS6030B-INVPOWER-fail2.jpg "PS6030B-INVPOWER-fail2")
 
 
